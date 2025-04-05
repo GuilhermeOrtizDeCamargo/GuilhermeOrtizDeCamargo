@@ -19,7 +19,7 @@ Também estou cursando Engenharia de Software na Unicesumar, onde já sou formad
 
 ## Faculdade
 - <a href="https://www.anhanguera.com/">
-      <img align="center" width="65px" src="https://portalinstitucional-assets.azureedge.net/strapi/assets/Logo_Anhanguera_Horizontal_170x60px_1_d985ea5183.svg" alt="{a} logo" class="img-fluid"> <a> Bacharel em Comunicação Social; </a>
+      <img align="center" width="65px" src="https://portalinstitucional-assets.azureedge.net/strapi/assets/Logo_Anhanguera_Horizontal_170x60px_1_d985ea5183.svg" alt="{a} logo" class="img-fluid"><a> Bacharel em Comunicação Social </a>
 - Tecnólogo em Análise e Desenvolvimento de Sistemas;
 - MBA em Big Data;
 - MBA em Data Warehouse;
