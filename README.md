@@ -18,6 +18,8 @@ Também estou cursando Engenharia de Software na Unicesumar, onde já sou formad
 [![GitHub](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilherme-ortiz-de-camargo/)
 
 ## Faculdade
+- <a href="https://www.anhanguera.com/">
+      <img align="center" width="65px" src="https://portalinstitucional-assets.azureedge.net/strapi/assets/Logo_Anhanguera_Horizontal_170x60px_1_d985ea5183.svg" alt="{a} logo" class="img-fluid">
 - Bacharel em Comunicação Social;
 - Tecnólogo em Análise e Desenvolvimento de Sistemas;
 - MBA em Big Data;
