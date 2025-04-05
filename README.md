@@ -20,9 +20,9 @@ Também estou cursando Engenharia de Software na Unicesumar, onde já sou formad
 - <a href="https://www.unicesumar.edu.br/">
       <img align="center" width="65px" src="https://www.unicesumar.edu.br/wp-content/themes/unicesumar/templates/assets_header/img/logo.webp" alt="{a} logo" class="img-fluid"></a> Pós graduado em Desenvolvimento e Programação com PYTHON </a>
 - <a href="https://univirtuaonline.com.br/">
-      <img align="center" width="65px" src="https://raichu-uploads.s3.amazonaws.com/logo_univirtua-instituto-de-pos-graduacao-ead_f5iQKF.png" alt="{a} logo" class="img-fluid"><a> MBA em Business Intelligence e Data Warehouse </a>
+      <img align="center" width="65px" src="https://univirtuaead.com.br/img/logo.372482bf.png" alt="{a} logo" class="img-fluid"><a> MBA em Business Intelligence e Data Warehouse </a>
 - <a href="https://univirtuaonline.com.br/">
-      <img align="center" width="65px" src="https://raichu-uploads.s3.amazonaws.com/logo_univirtua-instituto-de-pos-graduacao-ead_f5iQKF.png" alt="{a} logo" class="img-fluid"><a> MBA em Big Data e Cloud Computing </a>
+      <img align="center" width="65px" src="https://univirtuaead.com.br/img/logo.372482bf.png" alt="{a} logo" class="img-fluid"><a> MBA em Big Data e Cloud Computing </a>
 - <a href="https://www.unicesumar.edu.br/">
       <img align="center" width="65px" src="https://www.unicesumar.edu.br/wp-content/themes/unicesumar/templates/assets_header/img/logo.webp" alt="{a} logo" class="img-fluid"><a> Tecnólogo em Análise e Desenvolvimento de Sistemas </a>
 - <a href="https://www.anhanguera.com/">
