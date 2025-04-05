@@ -10,7 +10,7 @@ Também estou cursando Engenharia de Software na Unicesumar, onde já sou formad
 - <a href="https://www.sptech.school/">
       <img align="center" width="65px" src="https://www.sptech.school/assets/images/logos/sptech_logo_1.png" alt="{a} logo" class="img-fluid"></a> https://www.sptech.school/
 - <a href="https://www.sptech.school/">
-      <img align="center" width="65px" src="https://www.sptech.school/assets/images/logos/sptech_logo_1.png" alt="{a} logo" class="img-fluid"></a> https://www.sptech.school/
+      <img align="center" width="65px" src="https://www.unicesumar.edu.br/wp-content/themes/unicesumar/templates/assets_header/img/logo.webp" alt="{a} logo" class="img-fluid"></a> https://www.unicesumar.edu.br/
 
       
 
