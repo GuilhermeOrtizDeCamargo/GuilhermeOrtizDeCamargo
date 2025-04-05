@@ -12,12 +12,11 @@ Também estou cursando Engenharia de Software na Unicesumar, onde já sou formad
 - <a href="https://www.unicesumar.edu.br/">
       <img align="center" width="65px" src="https://www.unicesumar.edu.br/wp-content/themes/unicesumar/templates/assets_header/img/logo.webp" alt="{a} logo" class="img-fluid"></a> https://www.unicesumar.edu.br/
 
-      
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilherme-ortiz-de-camargo/)
 
-## Faculdade
+## Faculdades
 - <a href="https://univirtuaonline.com.br/">
       <img align="center" width="65px" src="https://univirtuaonline.com.br/wp-content/uploads/2024/10/univirtuamec.png" alt="{a} logo" class="img-fluid"><a> MBA em Big Data </a>
 - <a href="https://univirtuaonline.com.br/">
