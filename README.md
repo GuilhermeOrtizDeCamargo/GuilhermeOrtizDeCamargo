@@ -6,8 +6,13 @@
 
 Me chamo Guilherme e sou um curioso e eterno estudante de tecnologia.
 Atualmente estou cursando Ciência da Computação na SPTech School e posso dizer que está sendo uma experiência extremamente positiva.
+Também estou cursando Engenharia de Software na Unicesumar, onde já sou formado em Análise e Desenvolvimento de Sistemas.
 - <a href="https://www.sptech.school/">
       <img align="center" width="65px" src="https://www.sptech.school/assets/images/logos/sptech_logo_1.png" alt="{a} logo" class="img-fluid"></a> https://www.sptech.school/
+- <a href="https://www.sptech.school/">
+      <img align="center" width="65px" src="https://www.sptech.school/assets/images/logos/sptech_logo_1.png" alt="{a} logo" class="img-fluid"></a> https://www.sptech.school/
+
+      
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilherme-ortiz-de-camargo/)
