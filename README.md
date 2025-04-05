@@ -6,7 +6,7 @@
 
 Me chamo Guilherme e sou um curioso e eterno estudante de tecnologia.
 Atualmente estou cursando Ciência da Computação na SPTech School e posso dizer que está sendo uma experiência extremamente positiva.
-- <a href="[https://www.sptech.school/](https://www.sptech.school/)">
+- <a href="[https://www.sptech.school/]">
       <img align="center" width="65px" src="https://moodle.sptech.school/pluginfile.php/1/core_admin/logo/0x150/1692971033/sptech_principal_ciano.png" alt="{a} logo" class="img-fluid"></a> https://www.sptech.school/
 
 ## Ferramentas
