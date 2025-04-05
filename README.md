@@ -11,7 +11,6 @@ Atualmente estou cursando Ciência da Computação na SPTech School e posso dize
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilherme-ortiz-de-camargo/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/GuilhermeOrtizDeCamargo/)
 
 ## Faculdade
 - Bacharel em Comunicação Social;
